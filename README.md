@@ -2,12 +2,12 @@
 
 Practice system in:
 
-NodeJS
-ExpressJS
-Knex
-Objection
-GraphQL
-ReactJS
+NodeJS<br/>
+ExpressJS<br/>
+Knex<br/>
+Objection<br/>
+GraphQL<br/>
+ReactJS(flux, context, etc)<br/>
 
 
 npm install
