@@ -1,0 +1,9 @@
+$main-font: Averta;
+$primary-color: #1498d5;
+$sidebar-width: 260px;
+
+@mixin transition($duration) {
+    -webkit-transition: all $duration ease;
+    -moz-transition: all $duration ease;
+    transition: all $duration ease;
+}

@@ -1,0 +1,21 @@
+.btn-primary {
+    color: #fff;
+    padding: 10px 25px;
+    text-transform: uppercase;
+    border-radius: 2px;
+    outline: 0;
+    box-shadow: none;
+    border: none;
+    background: $primary-color;
+    letter-spacing: .8px;
+    cursor: pointer;
+    @include transition(.3s);
+}
+
+.btn-icon {
+    cursor: pointer;
+    padding-right: 5px;
+    &:hover {
+        color: $primary-color;
+    }
+}
