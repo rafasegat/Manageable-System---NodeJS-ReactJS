@@ -1,9 +1,14 @@
-Author: Rafael Segat de Souza
+<h2>Manageable System</h2>
 
-Feedback 360
+Practice system in:
 
+NodeJS
+ExpressJS
+Knex
+Objection
+GraphQL
+ReactJS
 
-Installation
 
 npm install
 npm run start:dev
